@@ -1,0 +1,12 @@
+[
+  {
+    "link": "https://leetcode.com",
+    "description": "A Platform to learn and solve DSA problems",
+    "keywords": "leetcode dsa learning"
+  },
+  {
+    "link": "https://practice.geeksforgeeks.org/problem-of-the-day",
+    "description": "Easier than Leetcode and a good way to start DSA",
+    "keywords": "geeksforgeeks dsa learning"
+  }
+]
