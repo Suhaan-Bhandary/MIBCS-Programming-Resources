@@ -8,5 +8,10 @@
     "link": "https://practice.geeksforgeeks.org/problem-of-the-day",
     "description": "Easier than Leetcode and a good way to start DSA",
     "keywords": "geeksforgeeks dsa learning"
+  },
+  {
+    "link": "https://www.interviewbit.com/",
+    "description": "Mainly focus on interview type of problems",
+    "keywords": "interviewbit interview problem"
   }
 ]
