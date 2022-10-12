@@ -1,6 +1,6 @@
 # DSA Learning Links
 
-Try it out: [https://github.com/Suhaan-Bhandary/DSA-Learning](https://github.com/Suhaan-Bhandary/DSA-Learning)
+Try it out: [https://suhaan-bhandary.github.io/DSA-Learning/](https://suhaan-bhandary.github.io/DSA-Learning/)
 
 ### How to contribute?
 
