@@ -24,15 +24,11 @@
     "description": "SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of companies like Amazon, Microsoft, Media.net, Flipkart, etc, and cover almost all of the concepts related to Data Structure & Algorithms.",
     "keywords": "Interview"
   },
-  {
-    "link": "https://youtu.be/WyxzAU3p8CE",
-    "description": "learn complete css",
-    "keywords": "css"
-  },
+  
   {
     "link": "https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S",
-    "description": "Mainly focus on learning c language",
-    "keywords": "c language"
+    "description": "Jenny's C playlist is one of the best playlist available on the internet. The specality is the simplicity in the course. She breaks down things so that they become very easy to learn",
+    "keywords": "C Programming Lecture:Jenny's lectures CS/IT NET&JRF"
   }
 
 ]
