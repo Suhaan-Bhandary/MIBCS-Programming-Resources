@@ -15,9 +15,9 @@
     "keywords": "interviewbit interview problem"
   },
   {
-  "link": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
-  "description": "This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses, the only thing we don’t provide is doubt support, but trust me our YouTube video comments resolve that as well, we have a wonderful community of 250K+ people who engage in all of the videos.",
-  "keywords": "DSA"
+    "link": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
+    "description": "This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses, the only thing we don’t provide is doubt support, but trust me our YouTube video comments resolve that as well, we have a wonderful community of 250K+ people who engage in all of the videos.",
+    "keywords": "DSA"
   },
   {
     "link": "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/",
@@ -25,8 +25,13 @@
     "keywords": "Interview"
   },
   {
+    "link": "https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view",
+    "description": "DSA-450 questions for cracking placements created by Love Babber",
+    "keywords": "Love Babber DSA-450"
+  },
+  {
     "link": "https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
     "description": "DSA-1 playlist is created by youtuber Anuj Sharma. DSA playlist to learn from basics. Creator has coverts various topics from easy ;evel to hard level. The special part is coverage of various algorithms alongwith some questions. The playlist is sutaible for both c++ and java ",
-    "keywords": "DSA 1 - By Anuj Bhaiyya"
+    "keywords": "DSA One Anuj Bhaiyya"
   }
 ]
