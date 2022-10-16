@@ -15,13 +15,18 @@
     "keywords": "interviewbit interview problem"
   },
   {
-  "link": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
-  "description": "This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses, the only thing we don’t provide is doubt support, but trust me our YouTube video comments resolve that as well, we have a wonderful community of 250K+ people who engage in all of the videos.",
-  "keywords": "DSA"
+    "link": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
+    "description": "This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses, the only thing we don’t provide is doubt support, but trust me our YouTube video comments resolve that as well, we have a wonderful community of 250K+ people who engage in all of the videos.",
+    "keywords": "DSA"
   },
   {
     "link": "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/",
     "description": "SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of companies like Amazon, Microsoft, Media.net, Flipkart, etc, and cover almost all of the concepts related to Data Structure & Algorithms.",
     "keywords": "Interview"
+  },
+  {
+    "link": "https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view",
+    "description": "DSA-450 questions for cracking placements created by Love Babber",
+    "keywords": "Love Babber DSA-450"
   }
 ]
