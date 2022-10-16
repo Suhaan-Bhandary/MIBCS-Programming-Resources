@@ -23,5 +23,10 @@
     "link": "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/",
     "description": "SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of companies like Amazon, Microsoft, Media.net, Flipkart, etc, and cover almost all of the concepts related to Data Structure & Algorithms.",
     "keywords": "Interview"
+  },
+  {
+    "link": "https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
+    "description": "DSA-1 playlist is created by youtuber Anuj Sharma. DSA playlist to learn from basics. Creator has coverts various topics from easy ;evel to hard level. The special part is coverage of various algorithms alongwith some questions. The playlist is sutaible for both c++ and java ",
+    "keywords": "DSA 1 - By Anuj Bhaiyya"
   }
 ]
