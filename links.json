@@ -31,7 +31,11 @@
   },
   {
     "link": "https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
-    "description": "DSA-1 playlist is created by youtuber Anuj Sharma. DSA playlist to learn from basics. Creator has coverts various topics from easy ;evel to hard level. The special part is coverage of various algorithms alongwith some questions. The playlist is sutaible for both c++ and java ",
+    "description": "DSA-1 playlist is created by youtuber Anuj Sharma. DSA playlist to learn from basics. Creator has cover various topics from easy level to hard level. The special part is coverage of various algorithms alongwith some questions. The playlist is sutaible for both c++ and java ",
     "keywords": "DSA One Anuj Bhaiyya"
+  },
+  {"link":"https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S",
+    "description": "Jenny's C playlist is one of the best playlist available on the internet. The specality is the simplicity in the course. She breaks down things so that they become very easy to learn",
+    "keywords": "C Programming Lecture:Jenny's lectures CS/IT NET&JRF."
   }
 ]
