@@ -8,6 +8,12 @@ a{
   color: lightblue;
 }
 
+h1{
+  color:var(--light-cyan);
+  text-align: center;
+  text-decoration: underline;
+}
+
 body {
   line-height: 1.5;
   background: var(--dark-blue);
