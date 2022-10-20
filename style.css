@@ -6,6 +6,7 @@
 
 a{
   color: lightblue;
+  word-break:break-all;
 }
 
 h1{
