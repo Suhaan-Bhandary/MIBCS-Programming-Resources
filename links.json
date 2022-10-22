@@ -53,5 +53,10 @@
     "link": "https://www.techiedelight.com/",
     "description": "Just select the type and Try different approaches and learn from errors.",
     "keywords": "C++,Java,Python"
+  },
+  {
+    "link": "https://www.w3schools.com/css/default.asp",
+    "description": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced.",
+    "keywords": "w3,CSS,style"
   }
 ]
