@@ -58,5 +58,10 @@
     "link": "https://www.w3schools.com/css/default.asp",
     "description": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced.",
     "keywords": "w3,CSS,style"
+  },
+  {
+    "link": "https://jovian.ai/learn/data-structures-and-algorithms-in-python",
+    "description": "A beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course comes with assignments as well as certification.",
+    "keywords": "Python, Data Structures, Algorithms, DSA"
   }
 ]
