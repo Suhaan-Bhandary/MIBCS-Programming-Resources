@@ -7,3 +7,4 @@
 - Krishna Patidar
 - Saiesh Agre
 - Ishita jain 
+- Tejas Shinkar
