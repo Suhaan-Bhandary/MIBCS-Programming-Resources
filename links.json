@@ -63,5 +63,10 @@
     "link": "https://jovian.ai/learn/data-structures-and-algorithms-in-python",
     "description": "A beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course comes with assignments as well as certification.",
     "keywords": "Python, Data Structures, Algorithms, DSA"
+  },
+  {
+    "link": "https://youtu.be/zJSY8tbf_ys",
+    "description": "In this massive 21 hours course, you will go from no coding experience to having the essential skills of a frontend web developer.",
+    "keywords": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)"
   }
 ]
