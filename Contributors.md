@@ -10,3 +10,4 @@
 - Tejas Shinkar
 - Soham K
 - Ritesh Khatale
+- Khairnar Tejas Dadaji
