@@ -68,5 +68,10 @@
     "link": "https://youtu.be/zJSY8tbf_ys",
     "description": "In this massive 21 hours course, you will go from no coding experience to having the essential skills of a frontend web developer.",
     "keywords": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)"
+  },
+  {
+    "link": "https://www.w3schools.com/jquery/default.asp",
+    "description": " This course covers all basic to advanced topics of jQuery.",
+    "keywords": "jQuery complete tutorial"
   }
 ]
