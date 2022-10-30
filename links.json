@@ -68,5 +68,10 @@
     "link": "https://youtu.be/zJSY8tbf_ys",
     "description": "In this massive 21 hours course, you will go from no coding experience to having the essential skills of a frontend web developer.",
     "keywords": "Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)"
+  },
+  {
+    "link": "https://www.w3schools.com/cpp/default.asp",
+    "description": "Most easy platform to start your programming with c++. You can learn c++ even if you have zero knowledge of programming.",
+    "keywords": "C++ W3 Schools"
   }
 ]
