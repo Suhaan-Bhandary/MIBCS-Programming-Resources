@@ -73,5 +73,10 @@
     "link": "https://www.w3schools.com/cpp/default.asp",
     "description": "Most easy platform to start your programming with c++. You can learn c++ even if you have zero knowledge of programming.",
     "keywords": "C++ W3 Schools"
+  },
+  {
+    "link": "https://www.w3schools.com/jquery/default.asp",
+    "description": " This course covers all basic to advanced topics of jQuery.",
+    "keywords": "jQuery complete tutorial"
   }
 ]
