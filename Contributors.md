@@ -9,3 +9,4 @@
 - Ishita jain 
 - Tejas Shinkar
 - Soham K
+- Ritesh Khatale
